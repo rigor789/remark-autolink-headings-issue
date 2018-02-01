@@ -1,0 +1,19 @@
+{
+  "name": "remark-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "remark-autolink-headings": "^5.0.0",
+    "remark-html": "^7.0.0",
+    "remark-parse": "^5.0.0",
+    "remark-slug": "^5.0.0",
+    "unified": "^6.1.6"
+  }
+}
